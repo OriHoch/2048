@@ -5,10 +5,10 @@ html, body {
   background: #faf8ef;
   background-image:url("wallp.jpg");
   background-attachment:fixed;
-  background-position:center; 
+  background-position:center;
   color: #776e65;
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
-  color:white; 
+  color:white;
   text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
   font-size: 20px; }
 
@@ -88,7 +88,7 @@ h1.title {
     font-size: 25px;
     line-height: 25px;
     font-weight: bold;
-    color:white; 
+    color:white;
     text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
     z-index: 100;
     -webkit-animation: move-up 600ms ease-in;
@@ -107,7 +107,7 @@ h1.title {
 p {
   margin-top: 0;
   margin-bottom: 10px;
-  line-height: 1.65; 
+  line-height: 1.65;
   }
 
 a {
@@ -683,4 +683,9 @@ hr {
     line-height: 30px !important;
     margin-top: 90px !important; }
   .game-message .lower {
-    margin-top: 30px !important; } }
+    margin-top: 30px !important; }
+}
+#twitter-button {
+  width: 100px;
+  margin: 0px auto;
+}
